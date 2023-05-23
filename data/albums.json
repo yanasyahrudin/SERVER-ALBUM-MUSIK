@@ -1,0 +1,112 @@
+[
+    {
+        "title": "Akibat Pergaulan Blues",
+        "description": "Terciptanya Akibat Pergaulan Blues diinisiasi dan diproduseri oleh Junior Soemantri. Album tersebut berisi 11 lagu yang ditulis sendiri oleh Jason Ranti.",
+        "stock": 10,
+        "price": 50000,
+        "imgUrl": "https://e.snmc.io/i/600/w/8aa98eac371371a5bc18c5315eccd04d/8213246/jason-ranti-akibat-pergaulan-blues-Cover-Art.jpg",
+        "rating": 2,
+        "genreId": 1,
+        "authorId": 2
+    },
+    {
+        "title": "Detourn",
+        "description": "The Godfather 'Don' Vito Corleone is the head of the Corleone mafia family in New York. He is at the event of his daughter's wedding. Michael, Vito's youngest son and a decorated WW II Marine is also present at the wedding. Michael seems to be uninterested in being a part of the family business. Vito is a powerful man, and is kind to all those who give him respect but is ruthless against those who do not. But when a powerful and treacherous rival wants to sell drugs and needs the Don's influence for the same, Vito refuses to do it. What follows is a clash between Vito's fading old values and the new ways which may cause Michael to do the thing he was most reluctant in doing and wage a mob war against all the other mafia families which could tear the Corleone family apart. ??srijanarora-152-448595",
+        "stock": 10,
+        "price": 55000,
+        "imgUrl": "https://rtc.ui.ac.id/wp-content/uploads/sites/49/2016/08/SIGIT.jpg",
+        "rating": 7,
+        "genreId": 2,
+        "authorId": 2
+    },
+    {
+        "title": "Blacklight Shines On",
+        "description": "A wild, freeform, Rabelaisian trip through the darkest recesses of Edinburgh low-life, focusing on Mark Renton and his attempt to give up his heroin habit, and how the latter affects his relationship with family and friends: Sean Connery wannabe Sick Boy, dimbulb Spud, psycho Begbie, 14-year-old girlfriend Diane, and clean-cut athlete Tommy, whos never touched drugs but cant help being curious about them…Danny Boyle 23 Feb 1996 (UK)",
+        "stock": 10,
+        "price": 50000,
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTQwMDkzOTc0MF5BMl5BanBnXkFtZTcwMDM0OTAyNg@@._V1_.jpg",
+        "rating": 7,
+        "genreId": 3,
+        "authorId": 2
+    },
+    {
+        "title": "Binar Wajah Sebaya",
+        "description": "Huge advancements in scientific technology have enabled a mogul to create an island full of living dinosaurs. John Hammond has invited four individuals, along with his two grandchildren, to join him at Jurassic Park. But will everything go according to plan? A park employee attempts to steal dinosaur embryos, critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island. ??Film_Fan",
+        "stock": 10,
+        "price": 50000,
+        "imgUrl": "https://siasatpartikelir.com/wp-content/uploads/2020/04/morfem_binar_wajah_sebaya_cover_art.jpg",
+        "rating": 5,
+        "genreId": 2,
+        "authorId": 2
+    },
+    {
+        "title": "Teriakan Bocah",
+        "description": "Huge advancements in scientific technology have enabled a mogul to create an island full of living dinosaurs. John Hammond has invited four individuals, along with his two grandchildren, to join him at Jurassic Park. But will everything go according to plan? A park employee attempts to steal dinosaur embryos, critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island. ??Film_Fan",
+        "stock": 10,
+        "price": 50000,
+        "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738a8984ec4b7d4c5c05fd5174",
+        "rating": 5,
+        "genreId": 2,
+        "authorId": 2
+    },
+    {
+        "title": "Maha Rencana",
+        "description": "Huge advancements in scientific technology have enabled a mogul to create an island full of living dinosaurs. John Hammond has invited four individuals, along with his two grandchildren, to join him at Jurassic Park. But will everything go according to plan? A park employee attempts to steal dinosaur embryos, critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island. ??Film_Fan",
+        "stock": 10,
+        "price": 50000,
+        "imgUrl": "https://i.scdn.co/image/c8935ab441f1a394912d4222fc0a7893493b0d74",
+        "rating": 5,
+        "genreId": 2,
+        "authorId": 2
+    },
+    {
+        "title": "Menggugat",
+        "description": "Huge advancements in scientific technology have enabled a mogul to create an island full of living dinosaurs. John Hammond has invited four individuals, along with his two grandchildren, to join him at Jurassic Park. But will everything go according to plan? A park employee attempts to steal dinosaur embryos, critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island. ??Film_Fan",
+        "stock": 10,
+        "price": 35000,
+        "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a5821e53b8af4213a4f8edc0",
+        "rating": 5,
+        "genreId": 2,
+        "authorId": 2
+    },
+    {
+        "title": "Sinting",
+        "description": "Huge advancements in scientific technology have enabled a mogul to create an island full of living dinosaurs. John Hammond has invited four individuals, along with his two grandchildren, to join him at Jurassic Park. But will everything go according to plan? A park employee attempts to steal dinosaur embryos, critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island. ??Film_Fan",
+        "stock": 10,
+        "price": 40000,
+        "imgUrl": "https://i.scdn.co/image/ab67616d00001e026cc361224ec69c1c6d2c8dfe",
+        "rating": 5,
+        "genreId": 2,
+        "authorId": 2
+    },
+    {
+        "title": "Candu Baru",
+        "description": "Huge advancements in scientific technology have enabled a mogul to create an island full of living dinosaurs. John Hammond has invited four individuals, along with his two grandchildren, to join him at Jurassic Park. But will everything go according to plan? A park employee attempts to steal dinosaur embryos, critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island. ??Film_Fan",
+        "stock": 10,
+        "price": 50000,
+        "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737fa497eead3d19760c1f1d8b",
+        "rating": 5,
+        "genreId": 2,
+        "authorId": 2
+    },
+    {
+        "title": "Fingers",
+        "description": "Huge advancements in scientific technology have enabled a mogul to create an island full of living dinosaurs. John Hammond has invited four individuals, along with his two grandchildren, to join him at Jurassic Park. But will everything go according to plan? A park employee attempts to steal dinosaur embryos, critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island. ??Film_Fan",
+        "stock": 10,
+        "price": 50000,
+        "imgUrl": "https://i.scdn.co/image/ab67616d0000b273204ffdfa17b925e0848a7cc6",
+        "rating": 5,
+        "genreId": 2,
+        "authorId": 2
+    },
+    {
+        "title": "Demi Masa",
+        "description": "Huge advancements in scientific technology have enabled a mogul to create an island full of living dinosaurs. John Hammond has invited four individuals, along with his two grandchildren, to join him at Jurassic Park. But will everything go according to plan? A park employee attempts to steal dinosaur embryos, critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island. ??Film_Fan",
+        "stock": 10,
+        "price": 50000,
+        "imgUrl": "https://cdns-images.dzcdn.net/images/cover/68020846871b15b5e0e09ad7c8b929d2/500x500.jpg",
+        "rating": 5,
+        "genreId": 3,
+        "authorId": 2
+    }
+]
